@@ -1,0 +1,82 @@
+&: [CRO] Curso de Revisão Ortográfica
+#>>PROF
+
+#!INTRODUÇÃO
+
+>Saudações, militar! Sou o(a) professor(a) (Nick)
+>Irei aplicar o Curso de Revisão Ortográfica, portanto mantenha-se em silêncio
+>e atento(a). Caso tenha alguma dúvida durante a explicação, acene.
+
+#! CONTEÚDO
+>1. USO DA VÍRGULA
+>A vírgula é um sinal de pontuação e exerce diversas funções, como a
+>separação entre dois elementos, pausa na leitura, entre outras.
+>Devido a sua importância e uso no dia a dia, será explicado as principais regras.
+>Na separação de elementos, isto é, termos coordenados (enumeração, lista, etc).
+>Por exemplo: Comprei ovos, legumes e verduras.
+>Para isolar o vocativo/pronomes, ou seja, ao chamar alguém na frase.
+>Exemplos: "Ana, não faça isso, por favor."; "Sim, senhora.".
+>Quando a frase for explicativa, estabelecendo uma pausa.
+>Por exemplo: Luiza, a moça que traz o pão, não veio hoje.
+>No início da frase, expressões que indicam circunstâncias variadas como tempo, lugar e modo.
+>Exemplos: "Às vezes, o clima fica tenso."; "Semana passada, visitei minha avó.";
+>"De modo geral, a polícia teve boas mudanças.".
+>2. MAS E MAIS
+>"Mas" é uma conjunção adversativa, sendo assim, apresenta uma relação de oposição entre duas ideias.
+>Equivale a "porém", "contudo", "entretanto", "no entanto". Quando a palavra MAS tem essa função
+>ela deve ser antecedida por uma vírgula.
+>Por exemplo: Ela sempre se dedicou ao seu trabalho, mas estava exausta naquele dia.
+>"Mais" é um pronome ou advérbio de intensidade. Possui como antônimo a palavra "menos".
+>Relacionado com quantidade, aumento, grandeza, comparação ou superioridade.
+>Exemplos: "Esse sofá é mais caro que aquele."; "Todos querem mais amor.".
+>3. PORQUÊS
+>Apesar de serem parecidos, cada um dos porquês tem significados e colocações diferentes.
+>POR QUE
+>"Por que", separado e sem acento, apresenta valor interrogativo no início da frase.
+>Por exemplo: Por que você está chorando?
+>Contudo quando a palavra "que" for um pronome relativo, o sentido da expressão é alterado,
+>podendo ser substituído pelo termo "pelo qual".
+>Por exemplo "O lugar por que passei é lindo", ou seja: "O lugar pelo qual passei é lindo".
+>POR QUÊ
+>Esta expressão é usada em perguntas, entretanto apenas se tiver no final da frase
+>ou de forma isolada.
+>Exemplos: "Você fugiu da aula por quê?"; "Por quê?".
+>PORQUÊ
+>"Porquê", junto e com acento, é um substantivo e apresenta o mesmo significado das palavras
+>"motivo" ou "razão", sendo sempre acompanhado por um artigo, numeral, adjetivo ou pronome.
+>Exemplos: "Quero saber OS porquês da sua falta", ou seja: "[...] saber os motivos [...]";
+>"Não sei O porquê disso", isto é: "Não sei a razão disso".
+>PORQUE
+>"Porque", junto e sem acento, possui valor explicativo. Dessa forma, pode ser
+>usado em respostas e substituído pela palavra "pois".
+>Por exemplo: "Não fui à aula porque estava ocupado", isto é: "Não fui à aula pois estava ocupado".
+>Alguma dúvida sobre os conteúdos abordados?
+
+
+#!4. TESTE DE CONDUTA
+
+>O teste de conduta consiste em avaliar se você aprendeu o que foi ensinado na aula.
+>Serão realizadas quatro (04) perguntas, sendo o limite de erro é uma (01) pergunta. Boa sorte!;;
+>01. Cite uma regra para que a vírgula seja utilizada e exemplifique.;;
+>
+>02. Explique em qual sentido da frase a palavra "mas" pode ser utilizada. Cite um exemplo.;;
+>
+>03. Em qual ocasião o "por quê" poderá ser empregado? Cite um exemplo.;;
+>
+>04. A frase "Quanto mas ele corria mais cansado ficava." está correta? Justifique, e se necessário, corrija.
+
+
+#!Aos aprovados:
+
+>Meus parabéns! Você foi aprovado no Curso de Revisão Ortográfica (CRO).
+>Lembre-se que a escrita é um meio de comunicação essencial, por isso sempre
+>esteja praticando e lendo. Quaisquer dúvidas sobre ortografia, consulte um professor.
+>Agora, peça no grupo com fundo cinza presente no brasão ali e acrescente "[CRO]" no final de sua
+>missão caso deseje. Lembrando que deve ser de forma separada dos cursos CFC e SEG.
+>Exemplo: "[CFC/SEG] [CRO]", pois o CRO é um curso opcional.
+
+
+#!Aos reprovados:
+
+>Infelizmente você foi reprovado(a), mas não desista! Refaça a aula novamente e aprimore sua ortografia, já que
+>é um aspecto importantíssimo para a polícia RCC.

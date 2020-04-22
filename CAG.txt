@@ -1,0 +1,96 @@
+&: [CAG] Curso de Aperfeiçoamento Gramático
+#>>PROF
+
+#!INTRODUÇÃO
+
+>Olá! Eu sou o(a) professor(a) (Nick) e seja bem-vindo(a) ao Curso de Aperfeiçoamento
+>Gramatical. Peço que mantenha a postura durante toda a aula, e acene caso tenha alguma dúvida.
+
+
+#!CONTEÚDO
+>1. CLASSIFICAÇÃO DO SUBSTANTIVO
+
+>* Comum: designa todos os seres de uma espécie. Ex.: cadeira, cachorro.
+>* Próprio: designa um determinado ser de uma espécie. Ex.: Rodrigo, Brasília.
+>* Concreto: indica nome de pessoas (reais ou fictícios), lugares, animais e coisas.
+>Ex.: mulher, ônibus, Kratos.
+>* Abstrato: indica qualidades (ex.: beleza), estado (ex.: morte), sentimentos (ex.: paixão),
+>sensações (ex.: dor) ou ação (ex.: análise).
+>* Primitivo: não se deriva de outra palavra (ex.: flor, rio, saudade).
+>* Derivado: é formado a partir de outra palavra [ex.: livraria (livro), laranjada (laranja)].
+>* Simples: formado apenas por um radical (ex.: sol, roupa, praça, sofá).
+>* Composto: formado por mais de um radical (guarda-roupa, passatempo).
+>* Coletivo: indica um conjunto de seres da mesma espécie.
+>Ex.: bando (de aves), elenco (de atores), cancioneiro (canção).
+
+
+>2. ARTIGO
+
+>* Artigos definidos: O, A, OS, AS.
+>* Artigos indefinidos: UM, UMA, UNS, UMAS.
+>Os artigos definidos apresentam formas combinadas com as preposições a, de, em e por:
+>ao, das, nos, pelo, etc.
+>O artigo a(s), quando combinado com a preposição a, forma-se crase
+>(duas vogais idênticas juntas = aa), representada pelo acento grave (à):
+>Os irmãos foram à casa de seus pais.
+>Os artigos indefinidos combinam-se com as preposições em e de, o que dá origem às formas:
+>num, numa, duma, dumas, etc.
+
+
+>3. CRASE
+
+>É a fusão de duas vogais da mesma natureza. No português é marcada pelo acento grave (`).
+>Ocorre, geralmente, quando o termo regente pede a preposição a e o termo regido aceita o artigo a.
+>* Caso Geral: haverá crase sempre que:
+>1. o termo antecedente exija a preposição a;
+>2. o termo consequente aceite o artigo a.
+>Para saber se ocorre crase, substitua o termo regido por uma palavra masculina.
+>Se aparecer a combinação AO, então no feminino há crase:
+>Ex.: Refiro-me ao garoto. / Refiro-me à garota.
+>NUNCA OCORRE
+>* Antes de palavras masculinas. (Ex.: Caminhava a passo lento.)
+>* Antes de verbo. (Ex.: Estou disposto a falar.)
+>* Com as expressões formadas de palavras repetidas. (Ex.: Venceu de ponta a ponta.)
+>* Antes dos nomes de cidade. (Ex.: Cheguei a Curitiba.)
+>* Antes de pronomes em geral. (Ex.: Eu me referi a esta menina.)
+>IMPORTANTE
+>1. Alguns pronomes de tratamento femininos aceitam crase. (Ex.: Dirijo-me à senhora.)
+>2. Haverá crase antes dos pronomes que aceitarem o artigo, tais como: mesma, própria...
+>3. Com pronomes possessivos femininos, a crase é facultativa.
+>SEMPRE OCORRE
+>* Na indicação pontual do número de horas. Ex.: Partimos às cinco horas.
+>* Expressões adverbiais femininas. Ex.: Chegaram à noite.
+>* Casa, terra e distância. Ocorre crase apenas se for determinada.
+>Ex.: Volte a casa cedo. / Volte à casa dos seus pais.
+>* Com a expressão "à moda de" e "à maneira de" (explícita ou não). Ex.: Bife à milanesa.
+>IMPORTANTE
+>Só ocorrerá se fizer referência a lugares ou pessoas. Ex.: Faculdade a distância, bife a cavalo.
+>Dúvidas?
+
+
+#!TESTE DE CONDUTA
+
+>Para verificar se você teve o rendimento adequado na aula, farei algumas perguntas.
+>Caso erre duas (02) perguntas, você será reprovado(a).;;
+>01- De quais palavras se derivam floricultura e limoeiro?;;
+>
+>02- Qual o coletivo de aves e atores?;;
+>
+>03- Quais são os artigos definidos?;;
+>
+>04- "Dumas" se origina de qual artigo indefinido?;;
+>
+>05- Reescreva a frase preenchendo-a corretamente com "à" (crase) ou "a" (sem crase):
+>Ela avisou __ mãe que __ irmã não estava disposta __ sair.
+
+
+#!Aos aprovados:
+
+>Parabéns! Você foi aprovado(a) no Curso de Aperfeiçoamento Gramatical!
+>Acrescente "[CAG]" no final de sua missão, e aguarde enquanto posto a aula.
+
+
+#!Aos reprovados:
+
+>Lamento, mas você foi reprovado(a) no Curso de Aperfeiçoamento Gramatical. Não se preocupe, poderá
+>fazê-lo novamente. Caso tenha alguma dúvida, pode retirá-la comigo ou com qualquer outro professor.
